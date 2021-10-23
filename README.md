@@ -1,0 +1,2 @@
+# Gra_w_zgadywanie_liczb_01
+Warsztat_1/Zadanie_1
